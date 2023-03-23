@@ -1,4 +1,4 @@
 small_res_dataset
 high_res_dataset.zip
 high_res_dataset
-model_params.pth
+*.pth
